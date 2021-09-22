@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1590926805 source:c:\users\t470\desktop\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphique.h"
+
+1590910640 c:\users\t470\desktop\partie c\graphique.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1590929704 source:c:\users\t470\desktop\tp 2 alsdd\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1590961020 source:c:\users\t470\desktop\esi\tp 2 alsdd\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1590961020 source:c:\users\t470\desktop\esi\1cp\tp 2 alsdd\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+

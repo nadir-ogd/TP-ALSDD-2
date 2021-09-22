@@ -1,0 +1,104 @@
+PAYS                    ND                      NR
+
+
+Etats-Unis              101470                  483090 
+Bresil                  24647                   158539 
+Russie                  3868                    142208 
+Espagne                 27117                   196958 
+Royaume-Unis            37460                   135 
+Italie                  33072                   147101 
+France                  28530                   65879 
+Allemagne               8522                    162800 
+dinde                   4331                    122793 
+Inde                    4534                    67711 
+L Iran                  7564                    111176 
+Perou                   3788                    52906 
+Canada                  6760                    46072 
+Chine                   4634                    78280 
+Chili                   841                     33540 
+Arabie Saoudite         425                     51022 
+Mexique                 8134                    52219 
+Pakistan                1225                    19142 
+Belgique                9364                    15465 
+Qatar                   30                      13283 
+Pays-Bas                5871                    3 
+Bielorussie             214                     15923 
+Bangladesh              544                     7925 
+Equateur                3203                    18003 
+Suède                   4220                    4971 
+Singapour               23                      17276 
+Emirats arabes unis     255                     16371 
+le Portugal             1356                    18349 
+Suisse                  1917                    28300 
+Irlande                 1631                    21060 
+Afrique du Sud          524                     12741 
+Indonesie               1473                    6057 
+Koweit                  175                     7946 
+Colombie                776                     5511 
+Pologne                 1028                    10330 
+Ukraine                 658                     7995 
+Egypte                  797                     5027 
+Roumanie                1227                    12162 
+Mladives                5                       197 
+Japon                   846                     13810 
+L Autriche              645                     15228 
+Republique Dominicaine  474                     8790 
+Philippines             904                     3506 
+Argentine               492                     4349 
+Afghanistan             227                     1138 
+Danemark                565                     10106 
+Panama                  313                     6379 
+Serbie                  240                     6277 
+Coree du Sud            269                     10295 
+Bahrein                 15                      5142 
+Kazakhstan              37                      4768 
+Tchequie                317                     6361 
+Algerie                 623                     5129 
+Norvege                 235                     7727 
+Oman                    39                      2177 
+Nigeria                 249                     2385 
+Armenie                 98                      3255 
+Malaisie                115                     6083 
+Maroc                   202                     4969 
+Moldova                 274                     3884 
+Australie               103                     6566  
+Bolivie                 274                     677 
+Ghana                   34                      2317  
+Finlande                313                     5100 
+Cameroun                175                     1996 
+Irak                    175                     2904 
+Azerbaedjan             54                      2897  
+Honduras                188                     493 
+Soudan                  184                     588 
+Luxembourg              110                     3791 
+Guatemala               63                      289 
+Hongrie                 505                     1856 
+Tadjikistan             47                      1575 
+Ouzbekistan             14                      2668 
+Guinee                  20                      1673 
+Senegal                 38                      1586 
+Thailande               57                      2931 
+Grece                   173                     1374 
+Djibouti                18                      1185 
+RDC                     68                      365 
+Cote d Ivoire           30                      1286 
+Bulgarie                133                     912 
+Bosnie Herzegovine      151                     1744 
+Croatie                 101                     2047 
+Gabon                   14                      593 
+Le Salvador             37                      873 
+Macedoine du Nord       119                     1470 
+Cuba                    82                      1724 
+Estonie                 66                      1561 
+Islande                 10                      1792 
+Somalie                 67                      265 
+Lituanie                66                      1184 
+Mayotte                 20                      894 
+Kirghizistan            16                      1043 
+Slovaquie               28                      1327 
+Nouvelle-Zelande        21                      1462 
+Slovenie                108                     1354 
+Kenya                   55                      408 
+Palestine               3                       356 
+Sri Lanka               10                      732 
+                                                    
